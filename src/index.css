@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: ochi1;
+    src: url(./assets/font/font1.woff);
+}
+@font-face {
+    font-family: ochi2;
+    src: url(./assets/font/font2.woff2);
+}
+@font-face {
+    font-family: ochi3;
+    src: url(./assets/font/font3.woff);
+}
+@font-face {
+    font-family: ochi4;
+    src: url(./assets/font/font4.woff);
+}
+@font-face {
+    font-family: ochi5;
+    src: url(./assets/font/font5.woff2);
+}
